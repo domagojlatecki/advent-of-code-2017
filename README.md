@@ -5,3 +5,4 @@ Advent of code 2017 task solutions.
 ### Run
 
 Day 1 task: `kotlinc -script src/Day1.kts <number>`
+Day 2 tasl: `scala src/Day2.scala <numbers> [<numbers>...]`
