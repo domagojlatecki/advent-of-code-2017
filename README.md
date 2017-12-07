@@ -9,7 +9,8 @@ Day 2 task: `scala src/Day2.scala <numbers> [<numbers>...]`
 Day 3 task: `python src/Day3.py <number>`  
 Day 4 task: `node src/Day4.js <passphrase> [<passphrase>...]`  
 Day 5 task: `bash src/Day5.sh <number> [<number...>]`  
-Day 6 task: `ruby src/Day6.rb <number> [<number>...]`
+Day 6 task: `ruby src/Day6.rb <number> [<number>...]`  
+Day 7 task: `clj src/Day7.clj <line> [<line>...]`
 
 ### Versions
 
@@ -18,4 +19,5 @@ scala: 2.12.2
 python: 2.7.6  
 node: 7.8.0  
 bash: 4.3.11(1)-release  
-ruby: 1.9.3p484
+ruby: 1.9.3p484  
+clj: 1.9.0-RC2
