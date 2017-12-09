@@ -11,7 +11,8 @@ Day 4 task: `node src/Day4.js <passphrase> [<passphrase>...]`
 Day 5 task: `bash src/Day5.sh <number> [<number...>]`  
 Day 6 task: `ruby src/Day6.rb <number> [<number>...]`  
 Day 7 task: `clj src/Day7.clj <line> [<line>...]`  
-Day 8 task: `ts-node src/Day8.ts <line> [<line>...]`
+Day 8 task: `ts-node src/Day8.ts <line> [<line>...]`  
+Day 9 task: `gcc -o out src/Day9.c; ./out <characters>`
 
 ### Versions
 
@@ -24,4 +25,5 @@ bash: 4.3.11(1)-release
 ruby: 1.9.3p484  
 clj: 1.9.0-RC2  
 ts-node: 3.3.0  
-typescript: 2.6.2
+typescript: 2.6.2  
+gcc 4.8.4
