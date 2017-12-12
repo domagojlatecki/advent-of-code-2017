@@ -14,7 +14,8 @@ Day 7 task: `clj src/Day7.clj <line> [<line>...]`
 Day 8 task: `ts-node src/Day8.ts <line> [<line>...]`  
 Day 9 task: `gcc -o out src/Day9.c; ./out <characters>`  
 Day 10 task: `rustc -o out src/Day10.rs; ./out <lengths>`  
-Day 11 task: `groovy src/Day11.groovy <moves>`
+Day 11 task: `groovy src/Day11.groovy <moves>`  
+Day 12 task: `go run src/Day12.go <connection> [<connection>...]`
 
 ### Versions
 
@@ -30,4 +31,5 @@ ts-node: 3.3.0
 typescript: 2.6.2  
 gcc 4.8.4  
 rustc 1.22.1  
-groovy 1.8.6
+groovy 1.8.6  
+go 1.9.2
