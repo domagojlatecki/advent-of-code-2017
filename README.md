@@ -15,7 +15,8 @@ Day 8 task: `ts-node src/Day8.ts <line> [<line>...]`
 Day 9 task: `gcc -o out src/Day9.c; ./out <characters>`  
 Day 10 task: `rustc -o out src/Day10.rs; ./out <lengths>`  
 Day 11 task: `groovy src/Day11.groovy <moves>`  
-Day 12 task: `go run src/Day12.go <connection> [<connection>...]`
+Day 12 task: `go run src/Day12.go <connection> [<connection>...]`  
+Day 13 task: `fpc -o./out src/Day13.pas >/dev/null 2>/dev/null; ./out <layer> [<layer>...]`
 
 ### Versions
 
@@ -32,4 +33,5 @@ typescript: 2.6.2
 gcc 4.8.4  
 rustc 1.22.1  
 groovy 1.8.6  
-go 1.9.2
+go 1.9.2  
+fpc 2.6.2-8
