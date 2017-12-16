@@ -72,6 +72,8 @@ int get_ones(char ch) {
             return 3;
         case 'f':
             return 4;
+        default:
+            return 0;
     }
 }
 
