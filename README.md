@@ -17,7 +17,8 @@ Day 10 task: `rustc -o out src/Day10.rs; ./out <lengths>`
 Day 11 task: `groovy src/Day11.groovy <moves>`  
 Day 12 task: `go run src/Day12.go <connection> [<connection>...]`  
 Day 13 task: `fpc -o./out src/Day13.pas >/dev/null 2>/dev/null; ./out <layer> [<layer>...]`  
-Day 14 task: `g++ -o out src/Day14.cpp; ./out <string>`
+Day 14 task: `g++ -o out src/Day14.cpp; ./out <string>`  
+Day 15 task: `gfortran -o out src/Day15.f90; ./out <number> <number>`
 
 ### Versions
 
@@ -36,4 +37,5 @@ rustc 1.22.1
 groovy 1.8.6  
 go 1.9.2  
 fpc 2.6.2-8  
-g++ 4.8.4
+g++ 4.8.4  
+gfortran 4.8.4
