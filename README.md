@@ -19,7 +19,8 @@ Day 12 task: `go run src/Day12.go <connection> [<connection>...]`
 Day 13 task: `fpc -o./out src/Day13.pas >/dev/null 2>/dev/null; ./out <layer> [<layer>...]`  
 Day 14 task: `g++ -o out src/Day14.cpp; ./out <string>`  
 Day 15 task: `gfortran -o out src/Day15.f90; ./out <number> <number>`  
-Day 16 task: `perl src/Day16.pl <moves>`
+Day 16 task: `perl src/Day16.pl <moves>`  
+Day 17 task: `gdc -o out src/Day17.d; ./out <number>`
 
 ### Versions
 
@@ -40,4 +41,5 @@ go 1.9.2
 fpc 2.6.2-8  
 g++ 4.8.4  
 gfortran 4.8.4  
-perl 5.18.2
+perl 5.18.2  
+gdc 4.8.4
